@@ -1,0 +1,33 @@
+Interrogee Hayriye is recorded.
+Interrogee Deniz is recorded.
+Interrogee Ateş is recorded.
+Interrogee Hayriye has no counsel risk.
+System suggests to release Deniz.
+Interrogee Toprak is recorded.
+Interrogee Hypatia is recorded.
+System suggests to arrest Hypatia.
+Interrogee Pakiz is recorded.
+Interrogee 	Core 		Counsel		Local Bomber 	Counsel	 	
+Name 		Accuracy 		 		Incidence 	 	Risk
+---------------------------------------------------------------------------------------------
+Hayriye 	99.99% 		Not Bomber 	50/100000 		No Risk
+Deniz 		99.99% 		Bomber 		40/100000 		66.68%
+Ateş 		99.00% 		Bomber 		16/100000  		No Risk
+Toprak 		98.00% 		Bomber 		21/100000 		20%
+Hypatia 	99.75% 		Bomber 		15/100000 		4%
+Pakiz 		99.97% 		Bomber 		14/100000 		30%
+Interrogee Ateş is removed.
+Risk for Ateş cannot be calculated due to absence.
+Recommendation for Su cannot be calculated due to absence.
+Interrogee Su is recorded.
+System suggests to release Su.
+Interrogee 	Core 		Counsel		Local Bomber 	Counsel	 	
+Name 		Accuracy 		 		Incidence 	 	Risk
+---------------------------------------------------------------------------------------------
+Hayriye 	99.99% 		Not Bomber 	50/100000 		No Risk
+Deniz 		99.99% 		Bomber 		40/100000 		66.68%
+Toprak 		98.00% 		Bomber 		21/100000 		20%
+Hypatia 	99.75% 		Bomber 		15/100000 		4%
+Pakiz 		99.97% 		Bomber 		14/100000 		30%
+Su 			98.00% 		Bomber 		50/100000 		20%
+Interrogee Deniz has a counsel risk of 66.68%.

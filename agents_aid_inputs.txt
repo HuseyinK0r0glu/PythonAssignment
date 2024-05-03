@@ -1,0 +1,17 @@
+create Hayriye, 0.999, 0, 50/100000
+create Deniz, 0.9999, 1, 40/100000
+create Ateş, 0.99, 1, 16/100000
+risk Hayriye
+recommendation Ateş
+create Toprak, 0.98, 1, 21/100000
+create Hypatia, 0.9975, 1, 15/100000
+recommendation Hypatia
+create Pakiz, 0.9997, 1, 14/100000
+list
+remove Ateş
+risk Ateş
+recommendation Su
+create Su, 0.98, 1, 50/100000
+recommendation Su
+list
+risk Deniz
